@@ -17,7 +17,7 @@ print(paintings)
 print(len(paintings))
 
 # output the list numbers as list
-audio_tour_number = list(range(len(paintings)))
+audio_tour_number = list(range(1, len(paintings)+1))
 print(audio_tour_number)
 
 # Making numbered list of paitings
